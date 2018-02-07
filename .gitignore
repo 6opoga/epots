@@ -33,3 +33,8 @@ inc/
 /MANIFEST.bak
 /pm_to_blib
 /*.zip
+
+#
+/.trials_and_tests/
+ePotsV2.conf
+/data/
